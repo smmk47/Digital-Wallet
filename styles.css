@@ -1,0 +1,48 @@
+/* Light Mode Styles */
+.bg-light-mode {
+    background-color: #f9f9f9;
+    color: #333333;
+}
+
+.text-light-mode {
+    color: #333333;
+}
+
+/* Dark Mode Styles - Red and Black Theme */
+.bg-dark-mode {
+    background-color: #000000; /* Black background */
+    color: #ff4c4c; /* Bright red text */
+}
+
+.text-dark-mode {
+    color: #ff4c4c; /* Bright red text */
+}
+
+/* Primary and Secondary Colors */
+.btn-primary {
+    background-color: #ff4c4c; /* Red */
+    border-color: #ff4c4c;
+}
+
+.btn-primary:hover {
+    background-color: #cc0000; /* Darker red */
+    border-color: #cc0000;
+}
+
+.bg-primary {
+    background-color: #ff4c4c !important; /* Red */
+}
+
+.bg-dark-primary {
+    background-color: #cc0000 !important; /* Darker red */
+}
+
+.btn-secondary {
+    background-color: #ff9999; /* Soft red */
+    border-color: #ff9999;
+}
+
+.btn-secondary:hover {
+    background-color: #cc3333; /* Deep red */
+    border-color: #cc3333;
+}
